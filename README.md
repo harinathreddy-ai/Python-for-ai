@@ -44,6 +44,11 @@ This repository contains my hands-on lab code, algorithms, and projects complete
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git](https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git)
+   git clone https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git
    cd Machine-Learning-with-Python
+
+2. **Install dependencies:**
+   pip install numpy pandas scikit-learn matplotlib seaborn jupyter
+
+3. **Launch Jupyter:**
+   jupyter notebook
