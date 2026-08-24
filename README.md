@@ -47,5 +47,3 @@ This repository contains my hands-on lab code, algorithms, and projects complete
    ```bash
    git clone [https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git](https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git)
    cd Machine-Learning-with-Python
-   pip install numpy pandas scikit-learn matplotlib seaborn jupyter
-   jupyter notebook
