@@ -10,7 +10,7 @@ This repository contains my hands-on lab code, algorithms, and projects complete
 - Overview of ML algorithms, lifecycle, and scikit-learn basics.
 
 ### 🔹 Module 2: Linear and Logistic Regression
-- `Simple_Linear_Regression.ipynb` — Predicting vehicle $CO_2$ emissions using simple linear regression.
+- `Simple_Linear_Regression.ipynb` — Predicting vehicle CO2 emissions using simple linear regression.
 - `Multiple_Linear_Regression.ipynb` — Estimating fuel consumption and emissions with multiple feature inputs.
 - `Logistic_Regression_with_Python.ipynb` — Customer churn prediction for telecommunications using logistic classification.
 
@@ -45,5 +45,5 @@ This repository contains my hands-on lab code, algorithms, and projects complete
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git
-cd Machine-Learning-with-Python
+   git clone [https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git](https://github.com/harinathreddy-ai/Machine-Learning-with-Python.git)
+   cd Machine-Learning-with-Python
